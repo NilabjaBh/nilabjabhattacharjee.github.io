@@ -22,7 +22,7 @@ My background combines **molecular biology** and **computational genomics**, and
 - CGPA: 8.3  
 
 **Master’s Project:**  
-*“HDAC-mediated Epigenetic Regulation of 15-LO and MAO-AExpression in A549 Lung Cancer Cells”*  
+*“HDAC-mediated Epigenetic Regulation of 15-LO and MAO-A Expression in A549 Lung Cancer Cells”*  
 Supervisor: Dr. Ashish Bhattacharjee, NIT, Durgapur
 
 ---
