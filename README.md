@@ -7,7 +7,8 @@ India | nilabja0012@gmail.com | [LinkedIn](https://linkedin.com/in/NilabjaBhatta
 
 ## About Me
 Hi! I’m **Nilabja Bhattacharjee**, a PhD scholar passionate about integrating **genomic data**, **machine learning**, and **systems biology** to understand cancer heterogeneity and improve therapeutic precision.  
-My background combines **molecular biology** and **computational genomics**, and I’m currently exploring how large-scale *multi-omics data* and *AI models* can guide personalized therapy design.
+My background combines **molecular biology** and **computational genomics**, and I’m currently exploring how large-scale *multi-omics data* and *AI models* can guide personalized therapy design. Please feel free to reach out to me at [my mail id](mailto:nilabjab@iiitd.ac.in) — I’m happy to discuss ideas, research, or collaborations in computational biology and cancer genomics.
+
 
 ## Curriculum Vitae
 <a href="https://drive.google.com/file/d/1eJMm5DLdrJvvXF7wjGS9TRa3C1T257cY/view?usp=sharing" target="_blank">
