@@ -43,7 +43,13 @@ My background combines **molecular biology** and **computational genomics**, and
 **Objective:** Identify genomic biomarkers that predict drug response and reveal mechanistic dependencies underlying therapy resistance.  
 
 - **Skills:** Single-cell RNA-seq analysis, bulk RNA-seq normalization, machine learning (ANN, GNN, SHAP analysis)  
-- **Preprint:** [*Mechanism-aware inference of response to targeted cancer therapies*](https://www.biorxiv.org/content/10.1101/2025.09.04.674143v1)  
+- **In Review:** *Mechanism-aware inference of response to targeted cancer therapies*  
+<a href="https://www.biorxiv.org/content/10.1101/2025.09.04.674143v1" target="_blank">
+  <button style="background-color:#228B22; color:white; border:none; padding:8px 16px; border-radius:6px; cursor:pointer;">
+    🔗 View Preprint
+  </button>
+</a>
+
 
 ---
 
