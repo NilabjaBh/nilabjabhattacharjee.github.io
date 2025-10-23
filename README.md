@@ -13,7 +13,7 @@ My background combines **molecular biology** and **computational genomics**, and
 
 ## Education
 
-**PhD Scholar (Ongoing)** — *Computational Biology*  
+**PhD Scholar (2024-present)** — *Computational Biology*  
 **Indraprastha Institute of Information Technology (IIIT Delhi)** *(2024–Present)*  
 - **CGPA:** 8.88 (till 2nd semester)  
 - **Focus:** Computational modeling, cancer genomics, and data-driven prediction of therapy response  
