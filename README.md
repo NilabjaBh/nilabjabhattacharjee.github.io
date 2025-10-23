@@ -28,7 +28,7 @@ My background combines **molecular biology** and **computational genomics**, and
 **M.Sc. in Biotechnology** — *National Institute of Technology, Durgapur* *(2022–2024)*  
 - **CGPA:** 7.98  
 - **Master’s Project:** *“HDAC-mediated Epigenetic Regulation of 15-LO and MAO-A Expression in A549 Lung Cancer Cells”*  
-  - **Supervisor:** Dr. Ashish Bhattacharjee, NIT Durgapur  
+  - **Supervisor:** [Dr. Ashish Bhattacharjee](https://scholar.google.com/citations?user=SNRoUIcAAAAJ&hl=en), NIT Durgapur
   - **Techniques:** Cell culture, MTT assay, Western blot, RT-PCR, Scratch assay  
 
 **B.Sc. (Hons.) in Zoology** — *University of Calcutta* *(2019–2022)*  
@@ -41,6 +41,7 @@ My background combines **molecular biology** and **computational genomics**, and
 
 **Title:** *Patient Stratification using Genomic Data*  
 **Objective:** Identify genomic biomarkers that predict drug response and reveal mechanistic dependencies underlying therapy resistance.  
+**Supervisor:** [Dr. Debarka Sengupta](https://www.thesenguptalab.com/copy-of-team), IIIT Delhi
 
 - **Skills:** Single-cell RNA-seq analysis, bulk RNA-seq normalization, machine learning (ANN, GNN, SHAP analysis)  
 - **In Review:** *Mechanism-aware inference of response to targeted cancer therapies*  
