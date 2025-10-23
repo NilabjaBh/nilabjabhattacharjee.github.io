@@ -27,7 +27,7 @@ Supervisor: Dr. Ashish Bhattacharjee, NIT, Durgapur
 
 ---
 
-## 🧪 PhD Project
+## PhD Project
 **Title:** *Patient Stratification using Genomic Data*  
 **Objective:** Develop data-driven frameworks for patient subtyping in cancer using gene expression and mutation profiles.  
 
