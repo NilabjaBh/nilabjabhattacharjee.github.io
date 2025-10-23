@@ -15,6 +15,7 @@ My background combines **molecular biology** and **computational genomics**, and
     📄 View My CV
   </button>
 </a>
+
 ---
 
 ## Education
