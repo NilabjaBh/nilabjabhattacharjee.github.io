@@ -10,7 +10,7 @@ Hi! I’m **Nilabja Bhattacharjee**, a PhD scholar passionate about integrating 
 My background combines **molecular biology** and **computational genomics**, and I’m currently exploring how large-scale *multi-omics data* and *AI models* can guide personalized therapy design.
 
 ## Curriculum Vitae
-<a href="https://drive.google.com/file/d/1AbCdEfGhIjKlMnOP/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1eJMm5DLdrJvvXF7wjGS9TRa3C1T257cY/view?usp=sharing" target="_blank">
   <button style="background-color:#0078D7; color:white; border:none; padding:10px 20px; border-radius:6px; cursor:pointer;">
     📄 View My CV
   </button>
