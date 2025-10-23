@@ -12,28 +12,31 @@ My background combines **molecular biology** and **computational genomics**, and
 ---
 
 ## Education
-**PhD Scholar (Ongoing)** — *Cancer Genomics*  
-**National Institute of Technology, Durgapur** (2022–2024)  
-- CGPA: 7.92 (till 3rd semester)  
-- Previous research: *Epigenetic regulation of IL-13 activated 15-LOX and MAO-A expression in A-549 lung cancer cells*  
-- Techniques: Cell culture, MTT assay, Western blot, RT-PCR, Scratch assay  
 
-**B.Sc. (Hons.) in Zoology** — *University of Calcutta* (2019–2022)  
-- CGPA: 8.3  
+**PhD Scholar (Ongoing)** — *Computational Biology*  
+**Indraprastha Institute of Information Technology (IIIT Delhi)** *(2024–Present)*  
+- **CGPA:** 8.88 (till 2nd semester)  
+- **Focus:** Computational modeling, cancer genomics, and data-driven prediction of therapy response  
 
-**Master’s Project:**  
-*“HDAC-mediated Epigenetic Regulation of 15-LO and MAO-A Expression in A549 Lung Cancer Cells”*  
-Supervisor: Dr. Ashish Bhattacharjee, NIT, Durgapur
+**M.Sc. in Biotechnology** — *National Institute of Technology, Durgapur* *(2022–2024)*  
+- **CGPA:** 7.98  
+- **Master’s Project:** *“HDAC-mediated Epigenetic Regulation of 15-LO and MAO-A Expression in A549 Lung Cancer Cells”*  
+  - **Supervisor:** Dr. Ashish Bhattacharjee, NIT Durgapur  
+  - **Techniques:** Cell culture, MTT assay, Western blot, RT-PCR, Scratch assay  
+
+**B.Sc. (Hons.) in Zoology** — *University of Calcutta* *(2019–2022)*  
+- **CGPA:** 8.3
+
 
 ---
 
 ## PhD Project
+
 **Title:** *Patient Stratification using Genomic Data*  
-**Objective:** Develop data-driven frameworks for patient subtyping in cancer using gene expression and mutation profiles.  
+**Objective:** Identify genomic biomarkers that predict drug response and reveal mechanistic dependencies underlying therapy resistance.  
 
 - **Skills:** Single-cell RNA-seq analysis, bulk RNA-seq normalization, machine learning (ANN, GNN, SHAP analysis)  
-- **Paper:** *Mechanism-aware inference of response to targeted cancer therapies*  
-- **Goal:** Identify genomic biomarkers that predict drug response and reveal mechanistic dependencies underlying therapy resistance.  
+- **Preprint:** [*Mechanism-aware inference of response to targeted cancer therapies*](https://www.biorxiv.org/content/10.1101/2025.09.04.674143v1)  
 
 ---
 
