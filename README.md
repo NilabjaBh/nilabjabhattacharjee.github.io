@@ -53,7 +53,7 @@ My background combines **molecular biology** and **computational genomics**, and
 - DBT JRF 2024   
 - IIT JAM BT 2022 — **AIR 334**  
 - GAT-B 2022 — **AIR 125 (General)**  
-- IIT GATE XL 2022 — **AIR 709**
+- IIT GATE BT 2022 — **AIR 479**
 
 ---
 
