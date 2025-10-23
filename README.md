@@ -1,17 +1,17 @@
 # Nilabja Bhattacharjee
 
-🎓 **PhD Scholar | Cancer Genomics | Machine Learning for Precision Medicine**  
-📍 India | 📧 nilabja0012@gmail.com | [LinkedIn](https://linkedin.com/in/NilabjaBhattacharjee)
+PhD Scholar | Cancer Genomics | Machine Learning for Precision Medicine 
+India | nilabja0012@gmail.com | [LinkedIn](https://linkedin.com/in/NilabjaBhattacharjee)
 
 ---
 
-## 🧬 About Me
+## About Me
 Hi! I’m **Nilabja Bhattacharjee**, a PhD scholar passionate about integrating **genomic data**, **machine learning**, and **systems biology** to understand cancer heterogeneity and improve therapeutic precision.  
 My background combines **molecular biology** and **computational genomics**, and I’m currently exploring how large-scale *multi-omics data* and *AI models* can guide personalized therapy design.
 
 ---
 
-## 🎓 Education
+## Education
 **PhD Scholar (Ongoing)** — *Cancer Genomics*  
 **National Institute of Technology, Durgapur** (2022–2024)  
 - CGPA: 7.92 (till 3rd semester)  
@@ -37,8 +37,8 @@ Supervisor: Dr. Ashish Bhattacharjee, NIT, Durgapur
 
 ---
 
-## 🧠 Skills
-- **Bioinformatics:** RNA-seq, Single-cell RNA-seq, Exome sequencing, Epigenetics  
+## Skills
+- **Bioinformatics:** Single-cell RNA-seq analysis, Bulk RNA-seq analysis,  Cheminformatics 
 - **Machine Learning:** Artificial Neural Networks, Graph Neural Networks, Model interpretation (SHAP, saliency mapping)  
 - **Wet Lab:** Cell culture, MTT assay, Western blot, RT-PCR, Scratch assay  
 - **Programming & Tools:** Python, R, scikit-learn, PyTorch, DESeq2, ComBat, Seurat  
@@ -46,7 +46,7 @@ Supervisor: Dr. Ashish Bhattacharjee, NIT, Durgapur
 
 ---
 
-## 🧩 Qualifying Exams
+## Qualifying Exams
 - DBT JRF 2024   
 - IIT JAM BT 2022 — **AIR 334**  
 - GAT-B 2022 — **AIR 125 (General)**  
@@ -54,7 +54,7 @@ Supervisor: Dr. Ashish Bhattacharjee, NIT, Durgapur
 
 ---
 
-## 📞 Contact
+## Contact
 - **Email:** [nilabja0012@gmail.com](mailto:nilabja0012@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/NilabjaBhattacharjee](https://linkedin.com/in/NilabjaBhattacharjee)
 
